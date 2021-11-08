@@ -17,6 +17,5 @@ fun main(args: Array<String>) {
             println("\t${punt.nomP}")
         }
     }
-
     sessio.close()
 }
